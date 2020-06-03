@@ -19,7 +19,7 @@ VueRouter.prototype.push = function push(location) {
 
    
   // { path: '/about',name: 'About',
-  //     component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')},
+  //     component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')}
     
     
 
