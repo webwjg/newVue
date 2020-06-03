@@ -25,11 +25,6 @@ axios.defaults.transformRequest = [function (data) {
 Vue.prototype.$axios=axios
 
 
-
-
-
-
-
 Vue.config.productionTip = false
 
 import util from './util/util.js'
