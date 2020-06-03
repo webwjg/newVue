@@ -5,7 +5,7 @@ import VueRouter from 'vue-router'
 
 
 
-Vue.use(VueRouter)
+Vue.use(VueRouter);
  
 
 //解决同一路由被重复添加
@@ -19,7 +19,7 @@ VueRouter.prototype.push = function push(location) {
 
    
   // { path: '/about',name: 'About',
-  //     component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')}
+  //1     component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')}
     
     
 
