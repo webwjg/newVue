@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-      首页
+      点赞哟
   </div>
 </template>
 
